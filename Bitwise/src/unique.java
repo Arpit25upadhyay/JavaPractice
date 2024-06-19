@@ -1,6 +1,6 @@
 public class unique {
     public static void main(String[] args) {
-        int[] arr = {2,3,4,3,2};
+        int[] arr = {2,2,1};
         System.out.println(ans(arr));
     }
 
